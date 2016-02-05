@@ -3,6 +3,9 @@
 Lesson plans, activities and assignments for Unit 0 will be posted here!
 ### Lesson plans
 
+
+HI LINUS!
+
  # |  Date | Week | Lesson |
 |---|---|---|---|
  0 | Mar 1 | 0 | [Intro: Compiling & Printing](lessons/week-0/2015-03-01_intro-compiling-printing.md)
